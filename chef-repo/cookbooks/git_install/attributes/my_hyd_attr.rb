@@ -1,0 +1,1 @@
+default['git_install']['installer_name'] = "Git-2.10.2-64-bit.exe"

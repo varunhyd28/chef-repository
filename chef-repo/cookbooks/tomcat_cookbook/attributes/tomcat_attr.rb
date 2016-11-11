@@ -1,0 +1,1 @@
+default['tomcat_cookbook']['tomcat_version'] = "10"

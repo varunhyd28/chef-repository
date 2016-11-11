@@ -1,0 +1,1 @@
+default['Java_cookbook']['java_version'] = "jdk_1.7"
